@@ -29,44 +29,24 @@ motto:    ship real software that real people use
 
 ## ⟁ Featured systems
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<a href="https://github.com/arslanfarooqui784-tech/ultron"><img src="https://github.com/arslanfarooqui784-tech/ultron/raw/main/docs/banner.svg" width="100%" alt="ULTRON"></a>
 
-### 🔴 ULTRON — personal AI agent
-`Java` `Android` `Python` `LLM APIs` `TTS / STT`
+**🔴 ULTRON — personal AI agent** · `Java` `Android` `Python` `LLM APIs` `TTS / STT`
+A voice-controlled AI assistant running as a native Android app and a Windows server that pair over Wi-Fi. Multi-model routing across **Gemini, Claude, GPT, Grok and Groq** with a local **Ollama** fallback, a messaging agent for **6 channels** under a **3-tier human-in-the-loop** approval policy, plus calls, routines, a daily briefing and a custom voice. **30 Java classes · ~11k lines · 28 releases** · [**Repo →**](https://github.com/arslanfarooqui784-tech/ultron)
 
-A voice-controlled AI assistant running as a native Android app and a Windows server that pair over Wi-Fi.
-- Multi-model routing across **Gemini, Claude, GPT, Grok and Groq**, with latency ranking and a local **Ollama** fallback
-- Messaging agent for **6 channels** with a **3-tier human-in-the-loop** approval policy and an emergency stop
-- Calls, routines, reminders, a daily briefing, a nightly self-review and a custom voice
-- **30 Java classes · ~11k lines · 28 releases** · [Repo](https://github.com/arslanfarooqui784-tech/ultron)
+<br>
 
-</td>
-<td width="50%" valign="top">
+<a href="https://github.com/arslanfarooqui784-tech/xyx-anatomy"><img src="https://github.com/arslanfarooqui784-tech/xyx-anatomy/raw/main/docs/banner.svg" width="100%" alt="XYX Anatomy"></a>
 
-### 🧬 XYX Anatomy — 3D anatomy atlas
-`JavaScript` `WebGL` `PWA` `Ontologies`
+**🧬 XYX Anatomy — 3D anatomy atlas** · `JavaScript` `WebGL` `PWA` `Ontologies`
+A browser-based 3D human anatomy atlas with **2,457** selectable structures (male 935 · female 1,522) built on **BodyParts3D, HuBMAP, Uberon, Mondo, Cell and Gene ontologies** — layer peeling, X-ray, cross-sections, a CT/MRI slice explorer and auto-generated quizzes. [**▶ Live app**](https://xyx-anatomy.netlify.app) · [**Repo →**](https://github.com/arslanfarooqui784-tech/xyx-anatomy)
 
-A browser-based 3D human anatomy atlas for research and study.
-- **2,457** selectable structures: male (935) and female (1,522), plus side-by-side compare
-- Built on **BodyParts3D, HuBMAP, Uberon, Mondo, Cell and Gene ontologies**
-- Layer peeling, X-ray, cross-sections, a CT/MRI slice explorer and auto-generated quizzes
-- [**▶ Live app**](https://xyx-anatomy.netlify.app) · [Repo](https://github.com/arslanfarooqui784-tech/xyx-anatomy)
+<br>
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+<a href="https://github.com/arslanfarooqui784-tech/hamza-shoe-center"><img src="https://github.com/arslanfarooqui784-tech/hamza-shoe-center/raw/main/docs/banner.svg" width="100%" alt="Hamza Shoe Center"></a>
 
-### 👟 Hamza Shoe Center — retail OS in daily production
-`JavaScript` `PWA` `Offline-first` `Android`
-
-An offline, bilingual (Hindi/Hinglish) business app running a real footwear shop: billing with split payments, size-wise inventory, customer credit, supplier ledgers, PIN-based roles, an audit log, reorder recommendations and profit-and-loss reports. · [Repo](https://github.com/arslanfarooqui784-tech/hamza-shoe-center)
-
-</td>
-</tr>
-</table>
+**👟 Hamza Shoe Center — retail OS in daily production** · `JavaScript` `PWA` `Offline-first` `Android`
+An offline, bilingual (Hindi/Hinglish) business app running a real footwear shop: billing with split payments, size-wise inventory, customer credit, supplier ledgers, PIN-based roles, an audit log, reorder recommendations and profit-and-loss reports. [**▶ Live app**](https://hamza-shoe-center-app.netlify.app) · [**Repo →**](https://github.com/arslanfarooqui784-tech/hamza-shoe-center)
 
 <img src="assets/divider.svg" width="100%">
 
