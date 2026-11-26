@@ -79,6 +79,9 @@ An offline, bilingual (Hindi/Hinglish) business app running a real footwear shop
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arslanfarooqui784-tech&bg_color=03050b&color=5ef0ff&line=ff4fd8&point=ffffff&area=true&area_color=5ef0ff&hide_border=true" alt="activity graph">
 </p>
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/arslanfarooqui784-tech/arslanfarooqui784-tech/output/snake-dark.svg" alt="contribution snake">
+</p>
 
 <img src="assets/divider.svg" width="100%">
 
