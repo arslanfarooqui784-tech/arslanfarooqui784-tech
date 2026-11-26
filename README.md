@@ -13,6 +13,8 @@
   <img src="https://komarev.com/ghpvc/?username=arslanfarooqui784-tech&style=for-the-badge&color=9b7bff&label=PROFILE+VIEWS">
 </p>
 
+<p align="center"><img src="assets/terminal.svg" width="100%" alt="ULTRON boot terminal"></p>
+
 <img src="assets/divider.svg" width="100%">
 
 ```yaml
@@ -52,6 +54,8 @@ An offline, bilingual (Hindi/Hinglish) business app running a real footwear shop
 
 ## ⟁ Tech stack
 
+<p align="center"><img src="assets/orbit.svg" width="100%" alt="tech orbit"></p>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css,androidstudio,git,github,netlify,linux,vscode&theme=dark" alt="tech stack">
 </p>
@@ -77,6 +81,8 @@ An offline, bilingual (Hindi/Hinglish) business app running a real footwear shop
 </p>
 
 <img src="assets/divider.svg" width="100%">
+
+<p align="center"><img src="assets/footer.svg" width="100%" alt="footer"></p>
 
 <p align="center">
   <sub><code>SYS://ARSLAN.FAROOQUI</code> · building in public · open to AI/ML, GenAI and software engineering internships</sub>
